@@ -1,0 +1,51 @@
+{
+  "name": "Haren",
+  "college": "National Engineering College",
+  "department": "Computer Science and Engineering",
+  "degree": "B.E. Computer Science and Engineering",
+  "academic_year": "2nd Year",
+  "semester": "Semester IV",
+  "subjects": [
+    "Database Management Systems",
+    "Operating Systems",
+    "Computer Networks",
+    "Design and Analysis of Algorithms",
+    "Artificial Intelligence"
+  ],
+  "academic_goals": [
+    "Maintain GPA above 8.5",
+    "Complete all LMS assignments 24h prior to deadline",
+    "Master Data Structures and System Design"
+  ],
+  "preferred_learning_style": "Interactive with practical coding examples and bulleted summaries",
+  "preferred_language": "English",
+  "exam_schedule": [
+    {
+      "subject": "Database Management Systems",
+      "date": "2026-11-15",
+      "session": "Forenoon"
+    },
+    {
+      "subject": "Operating Systems",
+      "date": "2026-11-18",
+      "session": "Forenoon"
+    },
+    {
+      "subject": "Computer Networks",
+      "date": "2026-11-21",
+      "session": "Forenoon"
+    }
+  ],
+  "deadlines": [
+    {
+      "title": "DBMS Normalization Assignment",
+      "subject": "Database Management Systems",
+      "due": "2026-11-05"
+    },
+    {
+      "title": "OS Process Scheduling Lab Report",
+      "subject": "Operating Systems",
+      "due": "2026-11-08"
+    }
+  ]
+}

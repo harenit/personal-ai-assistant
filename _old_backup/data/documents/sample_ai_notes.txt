@@ -1,0 +1,6 @@
+
+Artificial Intelligence Exam Study Guide:
+Heuristic search algorithms such as A* evaluate nodes using f(n) = g(n) + h(n).
+An admissible heuristic never overestimates the true remaining distance to the goal.
+In multi-layer perceptron neural networks, backpropagation applies the multivariate chain rule to calculate weight gradients.
+Red-Black trees ensure O(log n) worst-case time by enforcing tree balancing invariants.

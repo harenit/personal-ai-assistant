@@ -1,0 +1,57 @@
+{
+  "subjects": {
+    "operating systems": {
+      "name": "Operating Systems",
+      "topics": [
+        {
+          "topic": "Process Scheduling",
+          "summary": "Round Robin and Priority Scheduling algorithms.",
+          "recorded_at": "2026-10-30T15:31:19.414480"
+        },
+        {
+          "topic": "Process Scheduling",
+          "summary": "Round Robin and Priority Scheduling algorithms.",
+          "recorded_at": "2026-10-30T15:32:49.491407"
+        },
+        {
+          "topic": "Process Scheduling",
+          "summary": "Round Robin and Priority Scheduling algorithms.",
+          "recorded_at": "2026-10-30T15:34:45.231540"
+        },
+        {
+          "topic": "Process Scheduling",
+          "summary": "Round Robin and Priority Scheduling algorithms.",
+          "recorded_at": "2026-10-30T15:35:44.597343"
+        },
+        {
+          "topic": "Process Scheduling",
+          "summary": "Round Robin and Priority Scheduling algorithms.",
+          "recorded_at": "2026-10-30T15:36:36.544433"
+        },
+        {
+          "topic": "Process Scheduling",
+          "summary": "Round Robin and Priority Scheduling algorithms.",
+          "recorded_at": "2026-10-30T15:37:41.827818"
+        },
+        {
+          "topic": "Process Scheduling",
+          "summary": "Round Robin and Priority Scheduling algorithms.",
+          "recorded_at": "2026-10-30T15:38:51.670991"
+        },
+        {
+          "topic": "Process Scheduling",
+          "summary": "Round Robin and Priority Scheduling algorithms.",
+          "recorded_at": "2026-10-30T15:39:27.828974"
+        },
+        {
+          "topic": "Process Scheduling",
+          "summary": "Round Robin and Priority Scheduling algorithms.",
+          "recorded_at": "2026-10-30T15:40:38.915878"
+        }
+      ]
+    }
+  },
+  "syllabus_units": {},
+  "active_assignments": [],
+  "exam_prep": {}
+}

@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.env
+data/jarvis.db
+data/temp_audio/
+generated/audio/
+logs/*.log
+node_modules/
+dist/
+.DS_Store
+Thumbs.db
